@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '1939'
     url: http://www.gutenberg.org/2009/agents/1939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46054#The-Boy-Allies-with-the-Terror-of-the-SeasThe-Last-Shot-of-Submarine-D-16
 gutenberg_issued: '2014-06-20'
 gutenberg_type: Text
 identifiers:
